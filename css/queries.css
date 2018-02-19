@@ -1,0 +1,868 @@
+
+/* Extra small devices (portrait phones, less than 300px) */
+@media (max-width: 370px) and (min-width: 0) {
+
+    .navbar-brand{
+        text-align: center;
+    }
+
+    .navbar-toggler{
+        margin-top: -40px;
+        margin-left: -30px;
+    }
+
+    .nav-item{
+        font-size: 12px;
+    }
+
+    .btn-primary{
+        width: 75px;
+        height: 30px;
+        font-size: 12px;
+    }
+
+    .navbar-line{
+        height: 16px;
+    }
+
+    .first-sec-text h1{
+        font-size: 30px;
+    }
+
+    .first-sec-text p{
+        font-size: 12px;
+    }
+
+    .first-sec-text button{
+        font-size: 14px;
+        width: 120px;
+        height: 35px;
+    }
+
+    .skill-head{
+        font-size: 30px;
+    }
+
+    .skill-subhead{
+        font-size: 12px;
+    }
+
+    .skills-head{
+        font-size: 14px;
+    }
+    
+    .skills-text{
+        font-size: 10px;
+    }
+
+    .skills-number{
+        font-size: 150px;
+    }
+
+    .skills-img{
+        top: 120px;
+        left: 160px;
+    }
+
+    .portfolio-head{
+        font-size: 26px;
+    }
+
+    .portfolio-subhead{
+        font-size: 11px;
+    }
+    
+    .nav-pills{
+        margin-left: 5%;
+        }
+    
+    .nav-pills .nav-link{
+        font-size: 10px;
+    }    
+
+    .photo-gal-sec button{
+        width: 140px;
+        height: 40px;
+        font-size: 11px;
+    }
+
+    .about-intro-text{
+        font-size: 12px;
+    }
+
+    .about-content h3{
+        font-size: 30px;
+        padding-top: 0px;
+    }
+
+    .about-content p{
+        font-size: 12px;
+    }
+
+    .about-content button{
+        width: 140px;
+        height: 35px;
+        font-size: 12px;
+        margin-bottom: 30px;
+    }
+
+    .team-head{
+        padding-top: 110px;
+        font-size: 20px;
+    }
+    
+    .team-text{
+        font-size: 10px;
+    }
+
+    .team-name-box{
+        height: 30px;
+        font-size: 16px;
+        width: 300px;
+    }
+    
+    .team-quote{
+        font-size:12px;
+        height: 100px;
+        width: 300px;
+    }
+
+    .client-section{
+        height: 280px;
+    }
+
+    .project-section h2{
+        font-size: 26px;
+    }
+    
+    .project-section p{
+        font-size: 11px;
+    }
+    
+    .project-section button{
+        width: 170px;
+        height: 34px;
+        font-size: 11px;
+    }
+
+    .blog-head{
+        font-size: 26px;
+    }
+    
+    .blog-subhead{
+        font-size: 11px;
+    }
+
+    .blog-date{
+        font-size: 11px;
+    }
+    
+    .blog-title{
+        font-size: 12px;
+    }
+
+    .blog-section .row{
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+
+    .blog-section button{
+        width: 130px;
+        height: 33px;
+        margin-top: 60px;
+        margin-bottom: 60px;
+        font-size: 12px;
+    }
+
+    .newsletter-section .row{
+        margin-left: 10px;
+        margin-right: 60px;
+    }
+
+    .newsletter-email{
+        width: 250px;
+        text-align: left;
+        font-size: 12px;
+    }
+    
+    .newsletter-text{
+        width: 250px;
+        font-size: 16px;
+        padding-top: 40px;
+    }
+    
+    .newsletter-section button{
+        width: 150px;
+        height: 35px;
+        font-size: 12px;
+        margin-top: 35px;
+    }
+
+    .footer-section p, li{
+        font-size: 9px;
+    }
+    
+    .footer-section h4{
+        font-size: 11px;
+    }
+
+    .footer-col-right button{
+        width: 180px;
+        height: 30px;
+        font-size: 10px;
+    }
+
+    .footer-col-div1 p{
+        padding-top: 5px;
+        line-height: 25px;
+    }
+
+}
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575px) and (min-width: 371px) {
+    .navbar-brand{
+        text-align: center;
+    }
+
+    .navbar-toggler{
+        margin-top: -40px;
+        margin-left: -30px;
+    }
+
+    .nav-item{
+        font-size: 12px;
+    }
+
+    .btn-primary{
+        width: 75px;
+        height: 30px;
+        font-size: 12px;
+    }
+
+    .navbar-line{
+        height: 16px;
+    }
+
+    .first-sec-text h1{
+        font-size: 30px;
+    }
+
+    .first-sec-text p{
+        font-size: 12px;
+    }
+
+    .first-sec-text button{
+        font-size: 14px;
+        width: 120px;
+        height: 35px;
+    }
+
+    .skill-head{
+        font-size: 30px;
+    }
+
+    .skill-subhead{
+        font-size: 12px;
+    }
+
+    .skills-head{
+        font-size: 16px;
+    }
+    
+    .skills-text{
+        font-size: 12px;
+    }
+
+    .skills-number{
+        font-size: 150px;
+    }
+
+    .skills-img{
+        top: 120px;
+        left: 230px;
+    }
+
+    .portfolio-head{
+        font-size: 28px;
+    }
+
+    .portfolio-subhead{
+        font-size: 12px;
+    }
+
+    .nav-pills{
+        margin-left: 20%;
+    }
+
+    .nav-pills .nav-link{
+        font-size: 12px;
+    }
+
+    .photo-gal-sec button{
+        width: 140px;
+        height: 40px;
+        font-size: 12px;
+    }
+
+    .about-intro-text{
+        font-size: 12px;
+    }
+
+    .about-content h3{
+        font-size: 30px;
+        padding-top: 0px;
+    }
+
+    .about-content p{
+        font-size: 12px;
+    }
+
+    .about-content button{
+        width: 140px;
+        height: 35px;
+        font-size: 12px;
+        margin-bottom: 30px;
+    }
+
+    .team-head{
+        padding-top: 110px;
+        font-size: 20px;
+    }
+    
+    .team-text{
+        font-size: 11px;
+    }
+
+    .team-name-box{
+        height: 50px;
+        font-size: 11px;
+        width: 300px;
+    }
+    
+    .team-quote{
+        font-size:11px;
+        height: 100px;
+        width: 300px;
+    }
+
+    .client-section{
+        height: 240px;
+    }
+
+    .project-section h2{
+        font-size: 28px;
+    }
+    
+    .project-section p{
+        font-size: 12px;
+    }
+    
+    .project-section button{
+        width: 180px;
+        height: 36px;
+        font-size: 12px;
+    }
+
+    .blog-head{
+        font-size: 28px;
+    }
+    
+    .blog-subhead{
+        font-size: 12px;
+    }
+
+    .blog-date{
+        font-size: 11px;
+    }
+    
+    .blog-title{
+        font-size: 14px;
+    }
+
+    .blog-section .row{
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+
+    .blog-section button{
+        width: 150px;
+        height: 35px;
+        margin-top: 60px;
+        margin-bottom: 60px;
+        font-size: 12px;
+    }
+
+    .newsletter-email{
+        width: 300px;
+        text-align: left;
+        font-size: 12px;
+    }
+    
+    .newsletter-text{
+        width: 300px;
+        font-size: 16px;
+        padding-top: 40px;
+        text-align: center;
+    }
+    
+    .newsletter-section button{
+        width: 150px;
+        height: 35px;
+        font-size: 12px;
+        margin-top: 35px;
+    }
+
+    .footer-section p, li{
+        font-size: 10px;
+    }
+    
+    .footer-section h4{
+        font-size: 12px;
+    }
+
+    .footer-col-right button{
+        width: 240px;
+        height: 35px;
+        font-size: 11px;
+    }
+
+}
+
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width: 767px) and (min-width: 576px) {
+    .navbar-brand{
+        text-align: center;
+    }
+
+    .navbar-toggler{
+        margin-top: -40px;
+        margin-left: -60px;
+    }
+
+    .nav-item{
+        font-size: 14px;
+    }
+
+    .btn-primary{
+        width: 90px;
+        height: 35px;
+        font-size: 14px;
+    }
+
+    .navbar-line{
+        height: 17px;
+    }
+
+    .first-sec-text h1{
+        font-size: 40px;
+    }
+
+    .first-sec-text p{
+        font-size: 14px;
+    }
+
+    .first-sec-text button{
+        font-size: 16px;
+        width: 140px;
+        height: 40px;
+    }
+
+    .skill-head{
+        font-size: 32px;
+    }
+
+    .skill-subhead{
+        font-size: 13px;
+    }
+
+    .skills-head{
+        font-size: 18px;
+    }
+    
+    .skills-text{
+        font-size: 14px;
+    }
+
+    .skills-number{
+        font-size: 200px;
+    }
+
+    .skills-img{
+        top: 180px;
+        left: 230px;
+    }
+
+    .portfolio-head{
+        font-size: 30px;
+    }
+
+    .portfolio-subhead{
+        font-size: 13px;
+    }
+
+    .nav-pills{
+        margin-left: 25%;
+    }
+
+    .nav-pills .nav-link{
+        font-size: 14px;
+    }
+
+    .photo-gal-sec button{
+        width: 170px;
+        height: 45px;
+        font-size: 13px;
+    }
+
+    .about-intro-text{
+        font-size: 14px;
+    }
+
+    .about-subhead{
+        font-size: 35px;
+    }
+
+    .about-content{
+        font-size: 16px;
+    }
+
+    .about-content h3{
+        font-size: 35px;
+        padding-top: 0px;
+    }
+
+    .about-content p{
+        font-size: 14px;
+    }
+
+    .about-content button{
+        width: 160px;
+        height: 40px;
+        font-size: 14px;
+        margin-bottom: 30px;
+    }
+
+    .team-head{
+        padding-top: 110px;
+        font-size: 23px;
+    }
+    
+    .team-text{
+        font-size: 12px;
+    }
+
+    .team-name-box{
+        height: 50px;
+        font-size: 12px;
+        width: 300px;
+    }
+    
+    .team-quote{
+        font-size:12px;
+        height: 130px;
+        width: 300px;
+    }
+
+    .client-section{
+        height: 200px;
+    }
+
+    .project-section h2{
+        font-size: 30px;
+    }
+    
+    .project-section p{
+        font-size: 13px;
+    }
+    
+    .project-section button{
+        width: 190px;
+        height: 40px;
+        font-size: 13px;
+    }
+
+    .blog-head{
+        font-size: 30px;
+    }
+    
+    .blog-subhead{
+        font-size: 13px;
+    }
+
+    .blog-date{
+        font-size: 11px;
+    }
+    
+    .blog-title{
+        font-size: 16px;
+    }
+
+    .blog-section .row{
+        margin-left: 140px;
+        margin-right: 140px;
+    }
+
+    .blog-section button{
+        width: 180px;
+        height: 42px;
+        margin-top: 60px;
+        margin-bottom: 60px;
+        font-size: 13px;
+    }
+
+    .newsletter-email{
+        width: 300px;
+        text-align: left;
+        font-size: 13px;
+    }
+    
+    .newsletter-text{
+        width: 300px;
+        font-size: 18px;
+        padding-top: 40px;
+        padding-left: 40px;
+    }
+    
+    .newsletter-section button{
+        width: 180px;
+        height: 42px;
+        font-size: 13px;
+        margin-top: 35px;
+    }
+
+    .footer-section p, li{
+        font-size: 11px;
+    }
+    
+    .footer-section h4{
+        font-size: 13px;
+    }
+
+    .footer-col-right button{
+        width: 270px;
+        height: 40px;
+        font-size: 12px;
+    }
+
+}
+
+/* Medium devices (tablets, less than 992px) */
+@media (max-width: 991px) and (min-width: 768px) {
+    .navbar-brand{
+        text-align: center;
+    }
+
+    .navbar-toggler{
+        margin-top: -40px;
+        margin-left: -50px;
+    }
+
+    .nav-item{
+        font-size: 16px;
+    }
+
+    .btn-primary{
+        width: 100px;
+        height: 40px;
+        font-size: 16px;
+    }
+
+    .navbar-line{
+        height: 20px;
+    }
+
+    .first-sec-text h1{
+        font-size: 50px;
+    }
+
+    .first-sec-text p{
+        font-size: 15px;
+    }
+
+    .first-sec-text button{
+        font-size: 15px;
+        width: 160px;
+        height: 45px;
+    }
+    
+    .skill-head{
+        font-size: 35px;
+    }
+
+    .skill-subhead{
+        font-size: 15px;
+    }
+
+    .skills-head{
+        font-size: 20px;
+    }
+    
+    .skills-text{
+        font-size: 15px;
+    }
+
+    .skills-number{
+        font-size: 250px;
+    }
+
+    .skills-img{
+        top: 235px;
+        left: 90px;
+    }
+
+    .portfolio-head{
+        font-size: 35px;
+    }
+
+    .portfolio-subhead{
+        font-size: 15px;
+    }
+
+    .nav-pills{
+        margin-left: 30%;
+    }
+
+    .nav-pills .nav-link{
+        font-size: 16px;
+    }
+
+    .photo-gal-sec button{
+        width: 190px;
+        height: 45px;
+        font-size: 15px;
+    }
+
+    .about-intro-text{
+        font-size: 16px;
+    }
+
+    .about-subhead{
+        font-size: 40px;
+    }
+
+    .about-content{
+        font-size: 16px;
+    }
+
+    .about-content h3{
+        font-size: 40px;
+        padding-top: 0px;
+    }
+
+    .about-content p{
+        font-size: 16px;
+    }
+
+    .about-content button{
+        width: 180px;
+        height: 45px;
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+
+    .team-head{
+        padding-top: 110px;
+        font-size: 26px;
+    }
+    
+    .team-text{
+        font-size: 13px;
+    }
+
+    .team-name-box{
+        height: 50px;
+        font-size: 13px;
+    }
+    
+    .team-quote{
+        font-size:13px;
+        height: 200px;
+    }
+
+    .client-section{
+        height: 190px;
+    }
+
+    .project-section h2{
+        font-size: 35px;
+    }
+    
+    .project-section p{
+        font-size: 15px;
+    }
+    
+    .project-section button{
+        width: 208px;
+        height: 45px;
+        font-size: 15px;
+    }
+
+    .blog-head{
+        font-size: 35px;
+    }
+    
+    .blog-subhead{
+        font-size: 15px;
+    }
+
+    .blog-date{
+        font-size: 12px;
+    }
+    
+    .blog-title{
+        font-size: 18px;
+    }
+
+    .blog-section .row{
+        margin-left: 140px;
+        margin-right: 140px;
+    }
+
+    .blog-section button{
+        width: 208px;
+        height: 45px;
+        margin-top: 60px;
+        margin-bottom: 60px;
+        font-size: 15px;
+    }
+
+    .newsletter-email{
+        width: 300px;
+        text-align: left;
+        font-size: 15px;
+    }
+    
+    .newsletter-text{
+        width: 300px;
+        font-size: 20px;
+        padding-top: 40px;
+    }
+    
+    .newsletter-section button{
+        width: 202px;
+        height: 45px;
+        font-size: 15px;
+        margin-top: 35px;
+    }
+
+    .footer-section p, li{
+        font-size: 13px;
+    }
+    
+    .footer-section h4{
+        font-size: 15px;
+    }
+
+    .footer-col-right button{
+        width: 270px;
+        height: 45px;
+        font-size: 13px;
+    }
+
+}
+
+/* Large devices (desktops, less than 1200px) */
+/* @media (max-width: 1199px) {
+
+} */
